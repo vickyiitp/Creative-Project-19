@@ -1,0 +1,5 @@
+{
+  "name": "Block-Hunter",
+  "description": "A high-speed crypto-mining arcade game. Spot the golden '0000' hashes in the matrix rain and mine them before they vanish.",
+  "requestFramePermissions": []
+}
